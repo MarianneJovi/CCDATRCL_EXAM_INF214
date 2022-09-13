@@ -32,8 +32,7 @@ public class app {
             System.out.println(surname[i]);
         
             }
-        
-            System.out.println("======================================================");
+
             System.out.println();
 
 // 2. Linked list (25 pts)
@@ -71,7 +70,6 @@ System.out.println("2. Linked list (25 pts)");
         //Print the LinkedList.
         System.out.println(StudentNum);
 
-        System.out.println("======================================================");
         System.out.println();
     
 // 3. Stack (25 pts)
